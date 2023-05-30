@@ -6,10 +6,10 @@ export const styles = mergeStyleSets({
   checkbox: {
     padding: 5,
   },
-  selectAllCheckbox: {
-    padding: 5,
+  selectAllCheckbox:{
+    padding: 5
   },
   button: {
-    margin: 10,
-  },
+      margin: 10
+  }
 });
